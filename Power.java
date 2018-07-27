@@ -21,4 +21,4 @@ class Power
 		System.out.println(result);
 	}
 	}
-}
+

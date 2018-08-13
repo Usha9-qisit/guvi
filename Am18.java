@@ -21,8 +21,10 @@ class Am18
             }
             if(i == n)
             {
-              System.out.print(i + "  ");
+              System.out.print(i);
               }
+		 else
+			 System.out.print(" ");
         }
        
     

@@ -17,7 +17,7 @@ class Prime17
 	    	}
 	    	if(counter==2)
 	    	{
-	    		System.out.println(i);
+	    		System.out.println(i+" ");
 	    	}
 	    }
 	}

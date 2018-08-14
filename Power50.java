@@ -17,11 +17,10 @@ class Power50
 	 {
 	 	if(n==0)
 	 	return false;
-	 	else
+	 	while(n!=1)
 	 	{
 	 		if(n%2!=0)
 	 		return false;
-	 		else
 	 		n=n/2;
 	 	}
 	 	return true;

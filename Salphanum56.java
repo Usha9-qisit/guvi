@@ -17,8 +17,8 @@ class Salphanum56
 			
 		}
 		if(count>0 && count1>0)
-		System.out.println("yes");
+		System.out.println("Yes");
 		else
-		System.out.println("no");
+		System.out.println("No");
 	}
 }

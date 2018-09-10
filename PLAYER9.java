@@ -1,7 +1,7 @@
 import java.util.*;
 import java.lang.*;
 import java.io.*;
-class Set_Player090
+class PLAYER9
 {
 	public static void main (String[] args) throws java.lang.Exception
 	{
